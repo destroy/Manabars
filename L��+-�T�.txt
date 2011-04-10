@@ -1,0 +1,2 @@
+本工程使用VS2008 sp1编译，
+需要WTL：http://sourceforge.net/projects/wtl/files/ ，目前支持到VS2008，以后版本不清楚
